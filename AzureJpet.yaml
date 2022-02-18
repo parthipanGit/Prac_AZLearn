@@ -1,0 +1,7 @@
+version: v0.1
+testName: AzureGitSampleProjectwithCSV
+testPlan: Jpetstore_CSV.jmx
+description: 'AzureGitSampleProject'
+engineInstances: 1
+configurationFiles:
+- JpetstoreCredentials.csv
